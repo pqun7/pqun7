@@ -67,7 +67,7 @@
   <a href="https://www.linkedin.com/in/ali-nazer-860297287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="paypal.me/alinazer30" target="_blank">
+  <a href="https://www.paypal.com/paypalme/alinazer30" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
