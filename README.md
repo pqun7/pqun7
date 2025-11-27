@@ -69,8 +69,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pqun7/pqun7/output/snake.svg" alt="Snake animation" />
-
 
