@@ -8,6 +8,8 @@ Currently focused on **SQL, Machine Learning, Model Evaluation, and End-to-End M
 
 I'm open to **Machine Learning, Data, AI, Operations Research, and Software Engineering internships**.
 
+Check out my **[Portfolio](https://github.com/pqun7/Portfolio)** for my projects, skills, and certificates
+
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/pqun/) · [Portfolio](https://github.com/pqun7/Portfolio)
+[LinkedIn](https://www.linkedin.com/in/pqun/)
